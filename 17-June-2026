@@ -27,4 +27,4 @@ c in>>d
 int step;
 step = d/5;
 if(d%5 = =0) cout << steps;
-else cout << steps;
+else cout << steps+1;
