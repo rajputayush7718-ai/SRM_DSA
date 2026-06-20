@@ -1,6 +1,5 @@
 f(n)=f(n-1)+f(n-2)
  if(n==0) return 0;
- else if9 n==1) return;
+ else if n==1) return;
  return f(n-1)+f(n-2);     
-    }
-};
+}
