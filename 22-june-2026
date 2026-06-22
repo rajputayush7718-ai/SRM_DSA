@@ -1,7 +1,7 @@
-`vector <int>an5;
+`vector <int>ans;
 f() {
 if (road ==null ptr)return<{;
-an5 push back(root-real);
+ans push back(root-real);
 f(root-left);
 f(root-right);
 
